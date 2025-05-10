@@ -1,0 +1,44 @@
+# Build files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# CMake & MSBuild
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode config (optional)
+.vscode/
+
+# MinGW-specific
+*.o
+*.a
+
+# Backup files
+*.bak
+*~
+*.log
+
+# Generated files
+Debug/
+Release/
+x64/
+ipch/
+out/
+bin/
+build/
+
