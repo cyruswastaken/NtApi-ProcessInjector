@@ -1,58 +1,38 @@
-# Visual Studio files and build outputs
-[Bb]in/
-[Oo]bj/
-*.user
-*.suo
-*.aps
-*.pch
-*.vspscc
-*.vssscc
-*_i.c
-*_p.c
-*.ilk
-*.meta
-*.ncb
-*.opensdf
-*.sdf
-*.sln
-*.vcxproj
-*.vcxproj.filters
+# Ignore all build outputs and release directories
+NtApi/x64/Release/
+x64/Release/
+Release/
+*/Release/
+
+# Ignore Visual Studio project files
 *.sdn
 *.scoproj
-*.scoproj.user
 *.scoproj.filters
-*.cachefile
-*.VC.db
-*.VC.VC.opendb
+*.scoproj.user
 
-# Compiled binaries
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore compiled binaries
 *.exe
 *.dll
 *.lib
 *.exp
-*.manifest
 *.pdb
+*.ilk
 *.idb
-*.ipch
 
-# Release folders
-x64/Release/
-x64/Debug/
-Win32/Release/
-Win32/Debug/
-
-# IntelliSense files
-*.ide/
+# Ignore IDE files
 .vs/
+.vscode/
+*.VC.db
+*.VC.VC.opendb
 
-# Other common ignores
-*.log
-*.tlog
-*.lastbuildstate
-*.cache
-*.DS_Store
+# Project-specific ignores
+UCRISE
+gflignore
+
+# System files
+.DS_Store
 Thumbs.db
-
-# Project specific ignores
-/UCRISE
-/gflignore
