@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CyRUS\\dev\\native-api\\NtApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB914B8C-4371-4452-9B9E-55F80557A15E}|NtApi.vcxproj|C:\\CyRUS\\dev\\native-api\\NtApi\\definitions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB914B8C-4371-4452-9B9E-55F80557A15E}|NtApi.vcxproj|solutionrelative:definitions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB914B8C-4371-4452-9B9E-55F80557A15E}|NtApi.vcxproj|C:\\CyRUS\\dev\\native-api\\NtApi\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB914B8C-4371-4452-9B9E-55F80557A15E}|NtApi.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "definitions.h",
+              "DocumentMoniker": "C:\\CyRUS\\dev\\native-api\\NtApi\\definitions.h",
+              "RelativeDocumentMoniker": "definitions.h",
+              "ToolTip": "C:\\CyRUS\\dev\\native-api\\NtApi\\definitions.h*",
+              "RelativeToolTip": "definitions.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-09T18:04:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\CyRUS\\dev\\native-api\\NtApi\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\CyRUS\\dev\\native-api\\NtApi\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAG8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-09T18:02:12.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

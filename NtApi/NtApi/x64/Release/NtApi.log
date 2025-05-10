@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\CyRUS\dev\native-api\NtApi\definitions.h(40,18): error C3646: 'Attributes': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+C:\CyRUS\dev\native-api\NtApi\definitions.h(40,28): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'main.cpp')
+  
+C:\CyRUS\dev\native-api\NtApi\definitions.h(40,31): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+C:\CyRUS\dev\native-api\NtApi\main.cpp(60,23): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
